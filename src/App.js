@@ -4,12 +4,12 @@ import LoginComponent from './Components/LoginComponent';
 import DashBoard from './Components/Dashboard';
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
       <Route exact path="/">
           <DashBoard/>
         </Route>
-        <Route exact path="/login">
+        <Route exact path="/login/">
           <LoginComponent />
         </Route>
         
