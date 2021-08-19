@@ -9,7 +9,7 @@ function App() {
       <Route exact path="/">
           <DashBoard/>
         </Route>
-        <Route exact path="/login/">
+        <Route path="/login">
           <LoginComponent />
         </Route>
         
