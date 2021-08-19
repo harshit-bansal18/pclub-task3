@@ -1,9 +1,10 @@
+import {Link} from 'react-router-dom'
 import { UserCircleIcon, SearchIcon} from '@heroicons/react/solid'
 function DashBoard(){
     return(
         <div id = 'wrap' className='w-full h-full items-center'>
             <h2 className='text-center font-bold text-3xl'>Welcome User</h2>
-            <button className='btn btn-primary btn-lg text-blue-600 float-right mr-10 bg-gray-100 rounded shadow' onClick={()=>{window.location.href='/login'}}>Login Page</button>
+            <Link className='btn btn-primary btn-lg text-blue-600 float-right mr-10 bg-gray-100 rounded shadow' to='/login'>Login Page</Link>
             <div className='flex flex-col items-center lg:flex-row' id='inner-wrap'>
             <div className='ml-0 mt-10 items-center bg-gray-200 rounded shadow-2xl' style={{width:'400px'}}>
                 <p className='text-indigo font-bold text-center h-10 font-serif text-italics text-2xl'>Matches</p>
