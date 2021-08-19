@@ -6,8 +6,12 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/login" component={<LoginComponent/>} />
-        <Route exact path="/" component={<DashBoard/>} />
+        <Route exact path="/login">
+          <LoginComponent />
+        </Route>
+        <Route exact path="/">
+          <DashBoard/>
+        </Route>
         <Route path='*'><Redirect to='/'/></Route>
       </Switch>
     </Router>
