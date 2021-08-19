@@ -1,3 +1,7 @@
+**The site is hosted [here](https://puppyloveui.netlify.app)**. 
+
+I have used TailwindCSS along with ReactJS for making UI 
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
