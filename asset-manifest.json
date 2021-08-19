@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/puppy-love/static/css/main.3dd01810.chunk.css",
-    "main.js": "/puppy-love/static/js/main.ac927988.chunk.js",
-    "main.js.map": "/puppy-love/static/js/main.ac927988.chunk.js.map",
-    "runtime-main.js": "/puppy-love/static/js/runtime-main.7b0c697a.js",
-    "runtime-main.js.map": "/puppy-love/static/js/runtime-main.7b0c697a.js.map",
-    "static/js/2.9231b366.chunk.js": "/puppy-love/static/js/2.9231b366.chunk.js",
-    "static/js/2.9231b366.chunk.js.map": "/puppy-love/static/js/2.9231b366.chunk.js.map",
-    "static/js/3.de560eb5.chunk.js": "/puppy-love/static/js/3.de560eb5.chunk.js",
-    "static/js/3.de560eb5.chunk.js.map": "/puppy-love/static/js/3.de560eb5.chunk.js.map",
-    "index.html": "/puppy-love/index.html",
-    "static/css/main.3dd01810.chunk.css.map": "/puppy-love/static/css/main.3dd01810.chunk.css.map",
-    "static/js/2.9231b366.chunk.js.LICENSE.txt": "/puppy-love/static/js/2.9231b366.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/puppy-love/static/media/hearts-bg.0c66d4ef.jpeg"
+    "main.css": "/pclub-task3/static/css/main.383e1948.chunk.css",
+    "main.js": "/pclub-task3/static/js/main.ac927988.chunk.js",
+    "main.js.map": "/pclub-task3/static/js/main.ac927988.chunk.js.map",
+    "runtime-main.js": "/pclub-task3/static/js/runtime-main.76f63e54.js",
+    "runtime-main.js.map": "/pclub-task3/static/js/runtime-main.76f63e54.js.map",
+    "static/js/2.9231b366.chunk.js": "/pclub-task3/static/js/2.9231b366.chunk.js",
+    "static/js/2.9231b366.chunk.js.map": "/pclub-task3/static/js/2.9231b366.chunk.js.map",
+    "static/js/3.de560eb5.chunk.js": "/pclub-task3/static/js/3.de560eb5.chunk.js",
+    "static/js/3.de560eb5.chunk.js.map": "/pclub-task3/static/js/3.de560eb5.chunk.js.map",
+    "index.html": "/pclub-task3/index.html",
+    "static/css/main.383e1948.chunk.css.map": "/pclub-task3/static/css/main.383e1948.chunk.css.map",
+    "static/js/2.9231b366.chunk.js.LICENSE.txt": "/pclub-task3/static/js/2.9231b366.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pclub-task3/static/media/hearts-bg.0c66d4ef.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b0c697a.js",
+    "static/js/runtime-main.76f63e54.js",
     "static/js/2.9231b366.chunk.js",
-    "static/css/main.3dd01810.chunk.css",
+    "static/css/main.383e1948.chunk.css",
     "static/js/main.ac927988.chunk.js"
   ]
 }
